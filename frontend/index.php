@@ -11,13 +11,13 @@
   <h1>Seznam turnajů</h1>
   <div id="turnaje"></div>
   <script src="script.js"></script>
-
+  <img src="/frontend/script.js" alt="">
   <br>
   <br>
   <br>
   <br>
   <h3>Signup</h3>
-  <form action="/frontend/includes/formhandler.inc.php" method="post">
+  <form action="/turnajovnik/frontend/includes/formhandler.inc.php" method="post">
     <input type="text" name="username" placeholder="Username">
     <input type="password" name="pwd" placeholder="Password">
     <input type="text" name="email" placeholder="E-Mail">
