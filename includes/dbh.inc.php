@@ -1,6 +1,6 @@
 <?php
 
-$dsn = "mysql:host=localhost;dbname=myfirstdb";
+$dsn = "mysql:host=localhost;dbname=myfirstdatabase";
 $dbUsername = "root";
 $dbPassword = "";
 
