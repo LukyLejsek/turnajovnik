@@ -1,4 +1,4 @@
-fetch("http://localhost/api/turnaje")
+fetch("http://localhost/turnajovnik/api/turnaje")
   .then(res => res.json())
   .then(data => {
     const container = document.getElementById("turnaje");
