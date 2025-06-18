@@ -1,7 +1,7 @@
 <?php
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
-    $username = $_POST["username"];htmlspecialchars()
+    $username = $_POST["username"];htmlspecialchars();
     $pwd = $_POST["pwd"];
     $email = $_POST["email"];
     
